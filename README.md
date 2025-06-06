@@ -13,3 +13,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am really good at bash scripting. Also, I do not understand a single letter of assembly code.
 - A cool project I have started is to make a calculator in as many coding languages as possible.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d2crashout&layout=compact&langs_count=10&theme=github_dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=d2crashout&theme=onedark&title=-Stars,-Followers,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
