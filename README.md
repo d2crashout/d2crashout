@@ -1,13 +1,15 @@
-## Hi there 👋
+## Hello! 👋
 
 
 <!-- **d2crashout/d2crashout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on some projects, such as The Zombie Apocalypse project and Minecraft mods and plugins.
+- I am Abhimanyu!!
+- 🔭 I’m currently working on some projects, such  Minecraft mods and plugins. I have made a Unity game once before.
 - You can check these projects out in my organizations.
-- 🌱 I’m currently learning to code in Java and HTML
-- 👯 I’m looking to collaborate on any fun minecraft plugins or mods, or websites.
+- 🌱 I’m currently learning to code in Java and HTML, but I want to learn Rust and C++.
+- 👯 I’m looking to collaborate on any fun minecraft plugins or mods, or websites. Also any projects that require some knowledge of Java.
 - 💬 Ask me about java or html.
 - 📫 How to reach me: email me at "methebestestofall@gmail.com"
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am really good at bash scripting.
+- ⚡ Fun fact: I am really good at bash scripting. Also, I do not understand a single letter of assembly code.
+- A cool project I have started is to make a calculator in as many coding languages as possible.
