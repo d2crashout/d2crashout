@@ -16,4 +16,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d2crashout&layout=compact&langs_count=10&theme=github_dark&locale=en&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=d2crashout&column=4&no-frame=true&margin-w=3&margin-h=3&theme=darkhub&title=-Stars,-Followers,-Experience,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=d2crashout&column=4&no-frame=true&margin-w=3&margin-h=3&theme=darkhub&title=-Stars,-Followers,-Experience,-Reviews)
