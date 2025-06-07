@@ -18,4 +18,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=d2crashout&column=4&no-frame=true&margin-w=3&margin-h=3&theme=darkhub&title=-Stars,-Followers,-Experience,-Reviews)
 
-[![Abhimanyu's's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2crashout)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhimanyu's's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2crashout)(https://github.com/anuraghazra/github-readme-stats)]
