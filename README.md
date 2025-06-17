@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I am really good at bash scripting. Also, I do not understand a single letter of assembly code.
 - A cool project I have started is to make a calculator in as many coding languages as possible.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d2crashout&layout=compact&langs_count=10&theme=github_dark&locale=en&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d2crashout&layout=compact&langs_count=10&theme=github_dark&locale=en&hide_border=true&hide_progress=true)
 
 [![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2crashout&theme=nord&show_icons=true&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=d2crashout&column=4&no-frame=true&margin-w=3&margin-h=3&theme=darkhub&title=-Stars,-Followers,-Experience,-Reviews,-Issues)
