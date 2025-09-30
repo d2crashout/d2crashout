@@ -1,18 +1,33 @@
-## Hello! 👋
+# 👋 Hi, I’m Abhi!
 
-- I am Abhimanyu!!
-- 🔭 I’m currently working on some projects, such  Minecraft mods and plugins. I have made a Unity game once before.
-- You can check these projects out in my organizations.
-- 🌱 I’m currently learning to code in Java and HTML, but I want to learn Rust and C++.
-- 👯 I’m looking to collaborate on any fun minecraft plugins or mods, or websites. Also any projects that require some knowledge of Java.
-- 💬 Ask me about java or html.
-- 📫 How to reach me: email me at "abhi.cl9898@gmail.com"
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am really good at bash scripting. Also, I do not understand a single letter of assembly code.
-- A cool project I have started is to make a calculator in as many coding languages as possible.
+> “The best way to learn how something works is to take it apart.”  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d2crashout&layout=compact&langs_count=12&theme=github_dark&locale=en&hide_border=true&exclude_repo=Grade-Tracker-,forkphorus,coolplugin)
-![Abhi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d2crashout&layout=compact&hide_border=true&theme=github_dark)
+I’m a curious middle school student who loves exploring the world of hardware and code. You’ll often find me tinkering with microcontrollers, digging into PC guts, or modding Minecraft. Breaking things down—and building them back up—fuels my passion for learning.
 
-[![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2crashout&theme=nord&show_icons=true&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![trophy](https://github-profile-trophy.vercel.app/?username=d2crashout&column=4&no-frame=true&margin-w=3&margin-h=3&theme=darkhub&title=-Stars,-Followers,-Experience,-Reviews,-Issues)
+---
+
+### 🛠️ What I’m into:
+- **Hardware Hacking:** Microcontrollers (MCUs), PCs, and anything I can safely (!) disassemble
+- **Coding:** Java, HTML, Minecraft Modding, and Home Assistant automations
+- **Reverse Engineering:** Taking things apart, seeing how they tick, and maybe making them better
+
+---
+
+### 🚀 Projects I’m proud of:
+- [**video-fetcher**](https://github.com/d2crashout/video-fetcher): Grab and process online videos with ease(work in progress)
+- [**TI-32**](https://github.com/chromalock/TI-32): A project I contributed a change to
+- [**math-stuff**](https://github.com/d2crashout/calc): Cool multi-language calculator
+- [**pink-garnet**](https://github.com/d2crashout/pinkgarnet): A cool minecraft mod I am working on
+
+---
+
+### 🧠 Fun Facts:
+- I love to take stuff apart just to see what’s inside.
+- Minecraft modding is my digital playground.
+- If it’s got a circuit board, I want to know what it does!
+
+---
+
+<!-- Optionally, add social/contact links here if you want! -->
+
+Thanks for stopping by!  
